@@ -1,6 +1,6 @@
 # UNIT0-bot
 
-# Unit0-Transaction-Script
+
 #
 >Faucet link: [UNIT0-Faucet](https://faucet-testnet.unit0.dev/)  
 >Dashboard : [UNIT0](https://app.units.network/?referral=0x07c9A81d0C430d29076f055f142539507eb19700) 
