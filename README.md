@@ -74,7 +74,7 @@ function delay(ms) {
 
 // Function to get a random delay between 10 to 15 seconds
 function getRandomDelay() {
-    return Math.floor(Math.random() * (3000 - 5000 + 1) + 10000);
+    return Math.floor(Math.random() * (3000 - 5000 + 1) + 3000);
 }
 
 // Function to automate transactions
