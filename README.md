@@ -43,7 +43,7 @@ nano automate_transactions.js
 ```
 
 Copy and paste the following code into the file:   
->  replace your private key with "your-private-key-here" 
+>  replace your private key with "your-private-key-here"   
 > replace the address that you want send transaction with "recipient_address_here"
 ```
 const ethers = require('ethers');
