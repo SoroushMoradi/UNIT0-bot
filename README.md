@@ -23,16 +23,24 @@ mkdir unit0-automation
 cd unit0-automation
 ```
 **Initialize a new Node.js project:**  
-```npm init -y```
+```
+npm init -y
+```
 
 **Install the required dependencies(Ethers):**  
-```npm install ethers```
+```
+npm install ethers
+```
 
 **Create a new file named automate_transactions.js:**  
-```touch automate_transactions.js```
+```
+touch automate_transactions.js
+```
 
 **Open automate_transactions.js file:**  
-```nano automate_transactions.js```
+```
+nano automate_transactions.js
+```
 
 Copy and paste the following code into the file:   
 >  replace your private key with "your-private-key-here" 
